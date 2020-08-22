@@ -1,0 +1,100 @@
+
+body{
+	
+		background:url(../img/one.jpg); 
+		background-repeat: no-repeat;
+		background-size: cover;
+
+}
+
+
+
+.container{
+
+		width: 351px;
+
+		margin: 10px auto;
+}
+
+.login-section{
+		background-color:  #E5E4E2;
+		border: 2px solid #151B54;
+		padding: 24px;
+		margin: 16px auto;
+}
+
+
+.login-section img{
+
+		margin: 0px auto;
+
+		display: block;
+}
+
+
+.login-section h2{
+	font-family:Sacramento;
+	text-align: center;
+
+	color: darkblue;
+
+	font-size: 33px;
+
+	text-transform: capitalize;
+
+	margin: 0 auto;
+}
+
+
+.form-control{
+
+	width: 100%;
+
+	height: 27px;
+
+	padding: 1px;
+
+	margin: 3px auto;
+}
+
+.btn1{
+		
+	border: 2px solid black;
+			
+	background-color: #4E9258;
+			
+	margin: 5px auto;
+			
+	display: block;
+			
+	padding: 0px 97px 0px 75px;
+			
+	font-family: sans-serif;
+			
+	color: aliceblue;
+			
+	font-size: 24px;
+			
+	box-shadow: -1px 2px 11px rebeccapurple;
+}
+
+.btn2{
+		
+	border: 2px solid black;
+			
+	background-color: #C25283;
+			
+	margin: 5px auto;
+			
+	display: block;
+			
+	padding: 0px 97px 0px 75px;
+			
+	font-family: sans-serif;
+			
+	color: aliceblue;
+			
+	font-size: 24px;
+			
+	box-shadow: -1px 2px 11px rebeccapurple;
+}
